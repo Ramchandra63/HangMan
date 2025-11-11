@@ -9,5 +9,5 @@ An interactive word-guessing game built with Python and Streamlit. Challenge you
 - Game States: Clear win/loss messages with the revealed word  
 - Replay Option: Start a new game anytime with fresh words  
 
-🚀 **Live Demo:** [Play the game here!](https://mainpy-cnyhpjdutnsbaqpbgmappvb.streamlit.app/)
+🚀 **Live Demo:** [Play the game here!](https://mainpy-cnyhpjdutnsbaqpbqmappvb.streamlit.app/)
 <img width="1482" height="873" alt="image" src="https://github.com/user-attachments/assets/b25af678-689e-408b-b95a-4960394cf9fa" />
